@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "antiquitatessac00relagoog_0058.png"; bbox 0 0 733 1031; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 236 753 237 782">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 236 753 237 782">
+     <span class='ocr_line' id='line_1_1' title="bbox 236 753 237 782; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 236 753 237 782; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 112 76 630 954">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 112 76 630 954">
+     <span class='ocr_line' id='line_1_2' title="bbox 112 76 630 954; baseline 0 0"><span class='ocrx_word' id='word_1_2' title='bbox 112 76 630 954; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 295 929 626 953">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 295 929 626 953">
+     <span class='ocr_line' id='line_1_3' title="bbox 295 929 626 953; baseline -0.03 1"><span class='ocrx_word' id='word_1_3' title='bbox 295 931 368 953; x_wconf 74' lang='lat' dir='ltr'>Tafel</span> <span class='ocrx_word' id='word_1_4' title='bbox 380 929 626 952; x_wconf 53' lang='lat' dir='ltr'>derTnunAEmern.</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
